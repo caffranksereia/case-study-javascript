@@ -1,0 +1,39 @@
+body
+{
+    background-color: aquamarine;
+    justify-content: center;
+    display: flex;
+}
+section
+{
+    background-color: white;
+    height: 300px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+section h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    display:flex;
+    padding: 20px 20px 20px 50px;
+}
+section p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    display:flex;
+    padding: 20px 20px 20px 50px;
+}
+
+section button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    display:flex;
+    padding: 5px 5px 5px 5px;
+}
+.timerZero{
+    font-size: 3em;
+}
+.pause{
+   color: red; 
+}
